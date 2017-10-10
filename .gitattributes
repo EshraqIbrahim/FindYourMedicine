@@ -1,2 +1,2 @@
 *.rb linguist-language=PHP
-*.rb linguist-language=mySQL
+*.rb linguist-language=mysql
